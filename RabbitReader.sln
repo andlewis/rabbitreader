@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitReader", "RabbitReader\RabbitReader.csproj", "{C306BE9C-347F-4BA0-A5C2-0BE98E62639E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitReader.Model", "RabbitReader.Model\RabbitReader.Model.csproj", "{C0AB70CC-1249-4233-AEDA-B68BE7AC628B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RabbitReader.Repository", "RabbitReader.Repository\RabbitReader.Repository.csproj", "{4209A808-FB77-4645-A829-2B3CE8863E56}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C306BE9C-347F-4BA0-A5C2-0BE98E62639E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C306BE9C-347F-4BA0-A5C2-0BE98E62639E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C306BE9C-347F-4BA0-A5C2-0BE98E62639E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C306BE9C-347F-4BA0-A5C2-0BE98E62639E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0AB70CC-1249-4233-AEDA-B68BE7AC628B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0AB70CC-1249-4233-AEDA-B68BE7AC628B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0AB70CC-1249-4233-AEDA-B68BE7AC628B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0AB70CC-1249-4233-AEDA-B68BE7AC628B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4209A808-FB77-4645-A829-2B3CE8863E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4209A808-FB77-4645-A829-2B3CE8863E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4209A808-FB77-4645-A829-2B3CE8863E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4209A808-FB77-4645-A829-2B3CE8863E56}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\bin\Debug\RabbitReader.Model.dll.config
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\bin\Debug\RabbitReader.Model.dll
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\bin\Debug\RabbitReader.Model.pdb
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\bin\Debug\EntityFramework.dll
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\bin\Debug\EntityFramework.xml
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\obj\Debug\RabbitReader.Model.dll
+C:\Users\Developer\Desktop\Reader\RabbitReader.Model\obj\Debug\RabbitReader.Model.pdb

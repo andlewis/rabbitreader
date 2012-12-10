@@ -1,0 +1,21 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+@section footer {
+<script type="text/javascript">
+    $(document).ready(function () {
+                $.getJSON("api/feeds", function (data) {
+                if (data.length == 0)
+                    alert('no results');
+
+                $.each(data, function (key, val) {
+                    var str = val.Title;
+
+                    $('<li/>', { text: str }).appendTo($('#feeds'));
+
+                });
+            });
+    });
+</script>
+}
+<div id="feeds"></div>
